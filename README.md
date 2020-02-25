@@ -4,7 +4,7 @@
 
 The basic web development course is an introduction to front end web site development. In this 6-week course, the students will be exposed to HTML5 and CSS. By the end of this course, the student will have developed a working set of web pages with various forms of functionality based upon CSS design standards and a working understanding of JavaScript programming.
 
-**Course Dates**
+### Course Dates
 
 Days: Tuesday, Wednesday and Thursday
 
@@ -12,11 +12,11 @@ Time: 6PM - 8PM
 
 Presentations: Wednesday, March 18 and Thursday, March 19
 
-First Class: Tuesday, Feb. 11
+**First Class:** Tuesday, Feb. 11
 
-Last Class: Thursday, March 19
+**Last Class:** Thursday, March 19
 
-**Course Outline**
+### Course Outline
 
 Week One: Introduction to [HTML](https://www.w3schools.com/html/) and [Slack](https://slack.com/)
 
