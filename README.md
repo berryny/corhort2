@@ -164,6 +164,28 @@ Website Presentation on **Wednesday, March 18 & Thursday, March 19**
 
 [https://www.freecodecamp.org/](https://www.freecodecamp.org/)
 
+### Alternatives
+
+- _Stock Images:_
+  [https://www.pexels.com/search/google/](https://www.pexels.com/search/google/)
+  [https://www.canva.com/photos/](https://www.canva.com/photos/)
+- _Text/Content:_
+  [https://www.lipsum.com/](https://www.lipsum.com/)
+- _Lorem Ipsum for photos:_
+  [https://picsum.photos/](https://picsum.photos/)
+- _Photo editor (browser):_
+  [https://www.photopea.com/](https://www.photopea.com/)
+- _Font:_
+  [https://fonts.adobe.com/](https://fonts.adobe.com/)
+  [https://fonts.google.com/](https://fonts.google.com/)
+  [https://www.fontsquirrel.com/](https://www.fontsquirrel.com/)
+  [https://fontawesome.com/start](https://fontawesome.com/start)
+
+### Create a README.md: Basic writing and formatting syntax
+
+Create sophisticated formatting for your prose and code on GitHub with simple syntax.
+[Learn more](https://help.github.com/en/articles/basic-writing-and-formatting-syntax)
+
 ### About Glitch
 
 Click `Show` in the header to see your app live. Updates to your code will instantly deploy and update live.
