@@ -4,11 +4,31 @@
 
 The basic web development course is an introduction to front end web site development. In this 6-week course, the students will be exposed to HTML5 and CSS. By the end of this course, the student will have developed a working set of web pages with various forms of functionality based upon CSS design standards and a working understanding of JavaScript programming.
 
-**Course Dates**
+### Course Dates
+
 Days: Tuesday, Wednesday and Thursday
+
 Time: 6PM - 8PM
+
 Presentations: Wednesday, March 18 and Thursday, March 19
-Last Class: Thursday, March 19
+
+**First Class:** Tuesday, Feb. 11
+
+**Last Class:** Thursday, March 19
+
+### Course Outline
+
+Week One: Introduction to [HTML](https://www.w3schools.com/html/) and [Slack](https://slack.com/)
+
+Week Two: Understand and coding HTML using [Glitch](https://glitch.com/)
+
+Week Three: [HTML5](https://www.w3schools.com/html/html5_intro.asp) and Cascading Style Sheets (CSS) | [Inline, Internal and External CSS](https://www.w3schools.com/css/)
+
+Week Four: Introduction to [Atom Text Editor](https://atom.io/) and [Bootstrap](https://getbootstrap.com/) framework
+
+Week Five: Website design and building (adding real content)
+
+Week Six: Website presentation
 
 ## Internet
 
@@ -25,8 +45,11 @@ The web owes much of its existence to Philip Emeagwali, a math whiz who came up 
 ### Web
 
 A **webpage** is a single page shown in a web browser. A single video page on YouTube.com is a webpage.
+
 A **website** is a collection of webpages under a single URL (Uniform Resource Locator). Youtube (youtube.com) is a website.
+
 A **web host** is the computer which holds the web server and database.
+
 A **web application** is a website which offers advanced functionality like a computer program would. An example of a web application would be a web based calendar, or web based email. Youtube.com is also a web application
 
 ### IP Address
@@ -38,8 +61,11 @@ Type into the browser address bar
 ### URL
 
 URL is an acronym for Uniform Resource Locator and is a reference (an address) to a resource on the Internet.
+
 For the URL http://example.com , the protocol identifier is http or https.
+
 For the URL http://example.com , the resource name is example.com
+
 Real Talk about HTTPS: https://www.youtube.com/watch?v=iP75a1Y9saY
 
 ### SSL or SSL/TLS
@@ -52,17 +78,22 @@ SSL (Secure Sockets Layer) and its successor, TLS (Transport Layer Security), ar
 ## Cyber World
 
 What is the internet?
-a global computer network providing a variety of information and communication facilities, consisting of interconnected networks using standardized communication protocols.
+
+A global computer network providing a variety of information and communication facilities, consisting of interconnected networks using standardized communication protocols.
 
 What is browser?
+
 A web browser (commonly referred to as a browser) is a software application for accessing information on the World Wide Web.
 
 ## Github / Git
 
 GitHub is a global company that provides hosting for software development version control using Git.
-[https://github.com](https://github.com)
+
+- [https://github.com](https://github.com)
+
 Git (/ɡɪt/) is a distributed version-control system for tracking changes in source code during software development.
-[https://git-scm.com](https://git-scm.com)
+
+- [https://git-scm.com](https://git-scm.com)
 
 ## Glitch
 
@@ -78,24 +109,29 @@ A simple text editor tool for creating web apps within a web browser.
 ## HTML
 
 HTML stands for HyperText Markup Language. Developed by scientist Tim Berners-Lee in 1990, HTML is the "hidden" code that helps us communicate with others on the World Wide Web (WWW).
+
 HTML elements are represented by tags; HTML tags label pieces of content such as `“head”, “body”, “p”` and so on.
-[w3schools.com/tags](w3schools.com/tags)
-[developer.mozilla.org/en-US/docs/Learn/HTML](developer.mozilla.org/en-US/docs/Learn/HTML)
+
+- [w3schools.com/tags](w3schools.com/tags)
+- [developer.mozilla.org/en-US/docs/Learn/HTML](developer.mozilla.org/en-US/docs/Learn/HTML)
 
 ## CSS
 
 CSS stands for Cascading Style Sheets and it represents the design conventions that are applied to the display of HTML elements on screen, paper and other media.
+
 CSS syntax is expressed in the form of a rule-set consisting of a selector and a declaration box. Colors are specified using pre-defined color names. CSS can be added to HTML elements in three ways: inline, internal and external.
 
 ## Slack: Course Workspace
 
 Why we are using Slack?
+
 Slack is an American cloud-based set of proprietary team collaboration tools and services
 [https://slack.com]
 
 St. Nick Coders
-URL: [stnickcoders.slack.com](stnickcoders.slack.com)
-Email: Your Email Address
+
+- URL: [stnickcoders.slack.com](stnickcoders.slack.com)
+- Email: Your Email Address
 
 ## Setup Inventory
 
