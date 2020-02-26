@@ -30,7 +30,7 @@ Week Three: [HTML5](https://www.w3schools.com/html/html5_intro.asp) and Cascadin
 
 Week Four: Introduction to [Atom Text Editor](https://atom.io/) and [Bootstrap](https://getbootstrap.com/) framework
 
-Week Five: Website design and building (adding real content)
+Week Five: Website design and build (adding presentation content)
 
 Week Six: Website presentation
 
@@ -112,6 +112,10 @@ A simple text editor tool for creating web apps within a web browser.
 
 ## HTML
 
+_What Are HTML & CSS?_
+
+HTML, HyperText Markup Language, gives content structure and meaning by defining that content as, for example, headings, paragraphs, or images. CSS, or Cascading Style Sheets, is a presentation language created to style the appearance of content—using, for example, fonts or colors.
+
 HTML stands for HyperText Markup Language. Developed by scientist Tim Berners-Lee in 1990, HTML is the "hidden" code that helps us communicate with others on the World Wide Web (WWW).
 
 HTML elements are represented by tags; HTML tags label pieces of content such as `“head”, “body”, “p”` and so on.
@@ -136,6 +140,14 @@ HTML elements are represented by tags; HTML tags label pieces of content such as
 </html>
 ```
 
+#### HTML data-\* Attribute
+
+**Definition and Usage:** The data-\* attribute is used to store custom data private to the page or application.
+[https://www.w3schools.com/tags/att_data-.asp](https://www.w3schools.com/tags/att_data-.asp)
+
+Attributes provide additional information about HTML elements.
+[https://www.w3schools.com/html/html_attributes.asp](https://www.w3schools.com/html/html_attributes.asp)
+
 ## CSS
 
 CSS stands for Cascading Style Sheets and it represents the design conventions that are applied to the display of HTML elements on screen, paper and other media.
@@ -158,17 +170,39 @@ p {
 }
 ```
 
+#### The CSS Box Model
+
+All HTML elements can be considered as boxes. In CSS, the term `"box model"` is used when talking about design and layout.[https://www.w3schools.com/css/css_boxmodel.asp](https://www.w3schools.com/css/css_boxmodel.asp)
+
+#### Data Attributes and CSS
+
+A Complete Guide to Data Attributes | CSS-Tricks
+
+Everything you ever wanted to know about data attributes in HTML, CSS, and JavaScript. [https://css-tricks.com/a-complete-guide-to-data-attributes/](https://css-tricks.com/a-complete-guide-to-data-attributes/)
+
+In the CSS, a class selector is a name preceded by a full stop `(".")` and an ID selector is a name preceded by a hash character `("#")`. The difference between an ID and a class is that an ID can be used to identify one element, whereas a class can be used to identify more than one.
+[https://css-tricks.com/the-difference-between-id-and-class/](https://css-tricks.com/the-difference-between-id-and-class/)
+
+#### CSS Units
+
+CSS has several different units for expressing a length.
+
+Many CSS properties take "length" values, such as width, margin, padding, font-size, etc.
+Length is a number followed by a length unit, such as `10px, 2em, etc`.
+[https://www.w3schools.com/cssref/css_units.asp](https://www.w3schools.com/cssref/css_units.asp)
+
 ## Slack: Course Workspace
 
 Why we are using Slack?
 
 Slack is an American cloud-based set of proprietary team collaboration tools and services
-[https://slack.com]
+[https://slack.com](https://slack.com)
 
-St. Nick Coders
+St. Nick Coders Workspace
 
 - URL: [stnickcoders.slack.com](stnickcoders.slack.com)
 - Email: Your Email Address
+- Password: Your Password
 
 ## Setup Inventory
 
