@@ -16,6 +16,10 @@ Presentations: Wednesday, March 18 and Thursday, March 19
 
 **Last Class:** Thursday, March 19
 
+# PROJECT
+
+Website Presentation on **Wednesday, March 18 & Thursday, March 19**
+
 ### Course Outline
 
 Week One: Introduction to [HTML](https://www.w3schools.com/html/) and [Slack](https://slack.com/)
@@ -115,11 +119,44 @@ HTML elements are represented by tags; HTML tags label pieces of content such as
 - [w3schools.com/tags](w3schools.com/tags)
 - [developer.mozilla.org/en-US/docs/Learn/HTML](developer.mozilla.org/en-US/docs/Learn/HTML)
 
+### HTML Template
+
+```
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>HTML Template</title>
+</head>
+<body>
+  <!-- HTML Element Tags -->
+</body>
+</html>
+```
+
 ## CSS
 
 CSS stands for Cascading Style Sheets and it represents the design conventions that are applied to the display of HTML elements on screen, paper and other media.
 
 CSS syntax is expressed in the form of a rule-set consisting of a selector and a declaration box. Colors are specified using pre-defined color names. CSS can be added to HTML elements in three ways: inline, internal and external.
+
+### Sample Code
+
+```
+body {
+    background-color: powderblue;
+}
+h1 {
+    color: white;
+    text-align: center;
+}
+p {
+    font-family: Verdana;
+    font-size: 20px;
+}
+```
 
 ## Slack: Course Workspace
 
@@ -144,10 +181,6 @@ St. Nick Coders
 - MAMP & MAMP - [https://www.mamp.info/en/downloads](https://www.mamp.info/en/downloads)
 - Local by Freewheel - [https://localbyflywheel.com](https://localbyflywheel.com)
 
-# PROJECT
-
-Website Presentation on **Wednesday, March 18 & Thursday, March 19**
-
 ## Resources
 
 [https://www.w3schools.com](https://www.w3schools.com)
@@ -163,6 +196,38 @@ Website Presentation on **Wednesday, March 18 & Thursday, March 19**
 [https://www.sololearn.com/](https://www.sololearn.com/)
 
 [https://www.freecodecamp.org/](https://www.freecodecamp.org/)
+
+### Keyboard shortcuts in Windows
+
+Applies to: [Windows 10 Windows 8.1 Windows 7](https://support.microsoft.com/en-us/help/12445/windows-keyboard-shortcuts)
+
+### Mac keyboard shortcuts
+
+By pressing certain key combinations, you can do things that normally need a mouse, trackpad, or other input device. [Learn more](https://support.apple.com/en-us/HT201236)
+
+What is the revenue generation model for [DuckDuckGo](https://www.quora.com/What-is-the-revenue-generation-model-for-DuckDuckGo)?
+
+### Alternatives
+
+- _Stock Images:_
+  [https://www.pexels.com/search/google/](https://www.pexels.com/search/google/)
+  [https://www.canva.com/photos/](https://www.canva.com/photos/)
+- _Text/Content:_
+  [https://www.lipsum.com/](https://www.lipsum.com/)
+- _Lorem Ipsum for photos:_
+  [https://picsum.photos/](https://picsum.photos/)
+- _Photo editor (browser):_
+  [https://www.photopea.com/](https://www.photopea.com/)
+- _Font:_
+  [https://fonts.adobe.com/](https://fonts.adobe.com/)
+  [https://fonts.google.com/](https://fonts.google.com/)
+  [https://www.fontsquirrel.com/](https://www.fontsquirrel.com/)
+  [https://fontawesome.com/start](https://fontawesome.com/start)
+
+### Create a README.md: Basic writing and formatting syntax
+
+Create sophisticated formatting for your prose and code on GitHub with simple syntax.
+[Learn more](https://help.github.com/en/articles/basic-writing-and-formatting-syntax)
 
 ### About Glitch
 
