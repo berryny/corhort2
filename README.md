@@ -14,11 +14,13 @@ Presentations: Wednesday, March 18 and Thursday, March 19
 
 **First Class:** Tuesday, Feb. 11
 
-**Last Class:** Thursday, March 19
+**Pre-presentation Class:** Thursday, March 19
+
+**Web Presentation Class:** Thursday, March 26
 
 # PROJECT
 
-Website Presentation on **Wednesday, March 18 & Thursday, March 19**
+Website Presentation on **Thursday, March 19**
 
 ### Course Outline
 
@@ -148,6 +150,22 @@ HTML elements are represented by tags; HTML tags label pieces of content such as
 Attributes provide additional information about HTML elements.
 [https://www.w3schools.com/html/html_attributes.asp](https://www.w3schools.com/html/html_attributes.asp)
 
+#### Colors Tutorial
+
+[CSS Color Values](https://www.w3schools.com/colors/default.asp) - With CSS, colors can be specified in different ways:
+
+By color names
+
+- As RGB values
+- As hexadecimal values
+- As HSL values (CSS3)
+- As HWB values (CSS4)
+- With the `currentcolor` keyword
+
+[W3schools Color Converter](https://www.w3schools.com/colors/colors_converter.asp)
+
+[Adobe Kuler](https://color.adobe.com/explore) - Selecting color palettes
+
 ## CSS
 
 CSS stands for Cascading Style Sheets and it represents the design conventions that are applied to the display of HTML elements on screen, paper and other media.
@@ -234,6 +252,10 @@ St. Nick Coders Workspace
 ### Keyboard shortcuts in Windows
 
 Applies to: [Windows 10 Windows 8.1 Windows 7](https://support.microsoft.com/en-us/help/12445/windows-keyboard-shortcuts)
+
+#### Keyboad Commands
+
+![](https://cdn.glitch.com/bc2980dc-21e3-43fc-8c6c-5e88354fe0de%2Fkeyboard-commands.jpg?v=1583946028507)
 
 ### Mac keyboard shortcuts
 
