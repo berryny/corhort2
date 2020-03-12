@@ -29,11 +29,17 @@
         margin-right: 1em;
       }
       ul li a {
-        color: lightblue;
+        color: red;
         text-decoration: underline;
       }
       ul li a:hover {
         color: black;
+      }
+      .text-center {
+        text-align: center;
+      }
+      .text-red {
+        color: red;
       }
       .hero {
         background-image: url("https://cdn.glitch.com/bc2980dc-21e3-43fc-8c6c-5e88354fe0de%2Fchromebook-article.png?v=1581700827939");
@@ -44,6 +50,7 @@
         height: 100vh;
       }
       .hero p {
+        line-height: normal;
         margin: 0;
         padding-top: 40vh;
         text-transform: uppercase;
@@ -74,7 +81,7 @@
       }
     </style>
   </head>
-  <body style="">
+  <body style="" class="text-center">
     <header style="">
       <nav>
         <ul style="">
@@ -108,13 +115,13 @@
 
     <main>
       <div style="" class="hero">
-        <p style="">
+        <p style="" class="lead">
           Welcome to Youth Coding
         </p>
       </div>
       <div style="" class="course-information">
         <div>
-          <p>
+          <p class="text-red">
             In this 6-week course, which is offered
             <strong>Tuesday through Thursday</strong> from
             <strong>6:00PM to 8:00PM</strong>, the students will be exposed to

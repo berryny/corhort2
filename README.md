@@ -285,6 +285,13 @@ What is the revenue generation model for [DuckDuckGo](https://www.quora.com/What
 Create sophisticated formatting for your prose and code on GitHub with simple syntax.
 [Learn more](https://help.github.com/en/articles/basic-writing-and-formatting-syntax)
 
+### Documenting your projects on GitHub
+
+Good documentation is key to the success of any project.
+
+- Create [README files](https://guides.github.com/features/wikis/#creating-a-readme)
+- Add [Wikis on GitHub](https://guides.github.com/features/wikis/#creating-your-wiki)
+
 ### About Glitch
 
 Click `Show` in the header to see your app live. Updates to your code will instantly deploy and update live.
