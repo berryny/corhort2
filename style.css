@@ -41,6 +41,9 @@ h1 {
 
 .hero {
   color: red;
+/*   CSS Box Model */
+  pading: 10% 5%;
+/*   height: 50vh; */
 }
 .hero h1 {
   color: yellow;
