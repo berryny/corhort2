@@ -113,3 +113,11 @@ h1 {
 .flexboxes h2 {
   font-family: 'Roboto', sans-serif;
 }
+
+/* Medium screens */
+@media all and (max-width: 736px) {
+  .flexboxes {
+    /* On small screens, we are no longer using row direction but column */
+    flex-direction: column;
+  }
+}
