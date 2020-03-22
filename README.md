@@ -2,7 +2,7 @@
 
 ## Youth Code the Future
 
-A Website Development-Coding Program that uplift future youth and teaches then the skills towards the development of a community-oriented website helping them achieve a more promising future and connecting their fellow neighbors to resources through tech-based technology. Led by [Silicon Harlem](http://www.siliconharlem.net/about-us/) in collaboration with [Neighborhood Stat and the Resident Association Board](http://www.stnicholashouses.org/about/) and instructed by [Judi Deisre](https://www.redesigningtech.com/#/resume).
+A Website Development-Coding Program that uplift future youth and teaches then the skills towards the development of a community-oriented website helping them achieve a more promising future and connecting their fellow neighbors to resources through tech-based technology. Led by [Silicon Harlem](http://www.siliconharlem.net/about-us/) in collaboration with [Neighborhood Stat and the Resident Association Board](http://www.stnicholashouses.org/about/) and code instruction by [Judi Desire](https://www.redesigningtech.com/#/resume).
 
 ## Basic Web 101
 
