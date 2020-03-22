@@ -213,6 +213,62 @@ Many CSS properties take "length" values, such as width, margin, padding, font-s
 Length is a number followed by a length unit, such as `10px, 2em, etc`.
 [https://www.w3schools.com/cssref/css_units.asp](https://www.w3schools.com/cssref/css_units.asp)
 
+#### CSS @import Rule
+
+The @import rule allows you to import a style sheet into another style sheet.
+
+- Using the @import rule to add external font-family from [Google Fonts](https://fonts.google.com/)
+- Adding [CSS Web Fonts](https://www.w3schools.com/css/css3_fonts.asp) allows the use of fonts that are not installed on the user's computer/browser.
+
+```
+/*
+  Google Font - https://fonts.google.com/
+*/
+@import url('https://fonts.googleapis.com/css?family=Lato|Roboto&display=swap');
+
+body {
+    background-color: powderblue;
+    font-family: 'Lato', sans-serif;
+}
+h1 {
+    color: white;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+p {
+    font-family: Verdana;
+    font-size: 20px;
+}
+```
+
+#### CSS @media Rule
+
+The [@media rule](https://www.w3schools.com/cssref/css3_pr_mediaquery.asp) is used in media queries to apply different styles for different media types/devices.
+
+- [Media Queries for Standard Devices](https://css-tricks.com/snippets/css/media-queries-for-standard-devices/)
+
+```
+body {
+    background-color: powderblue;
+    font-family: 'Lato', sans-serif;
+}
+h1 {
+    color: white;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+p {
+    font-family: Verdana;
+    font-size: 20px;
+}
+
+@media all and (max-width: 736px) {
+  body {
+    background-color: yellow;
+  }
+}
+```
+
 ## Slack: Course Workspace
 
 Why we are using Slack?

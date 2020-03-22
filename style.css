@@ -1,5 +1,5 @@
-/*   Google Font 
-    https://fonts.google.com/
+/*  CSS @import Rule - https://www.w3schools.com/cssref/pr_import_rule.asp
+    Google Font - https://fonts.google.com/
 */
 @import url('https://fonts.googleapis.com/css?family=Lato|Roboto&display=swap');
 
@@ -112,4 +112,12 @@ h1 {
 
 .flexboxes h2 {
   font-family: 'Roboto', sans-serif;
+}
+
+/* Medium screens */
+@media all and (max-width: 736px) {
+  .flexboxes {
+    /* On small screens, we are no longer using row direction but column */
+    flex-direction: column;
+  }
 }
