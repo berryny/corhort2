@@ -2,17 +2,15 @@
 
 body {
   font-family: helvetica, arial, sans-serif;
-  margin: 2em;
+  background-color: #fff;
+  margin: 0;
 }
 
 h1 {
   font-style: italic;
   color: #373fff;
 }
-body {
-  background-color: red;
-  margin: 0;
-}
+
 .poster {
   width: 80%;
   color: white;
@@ -39,4 +37,14 @@ body {
 .poster .slogan span {
   display: block;
   font-size: 0.5em;
+}
+
+.hero {
+  color: red;
+/*   CSS Box Model */
+  pading: 10% 5%;
+/*   height: 50vh; */
+}
+.hero h1 {
+  color: yellow;
 }

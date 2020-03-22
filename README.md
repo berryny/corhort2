@@ -1,5 +1,9 @@
 # Welcome to St Nicholas Youth Coding
 
+## Youth Code the Future
+
+A Website Development-Coding Program that uplift future youth and teaches then the skills towards the development of a community-oriented website helping them achieve a more promising future and connecting their fellow neighbors to resources through tech-based technology. Led by [Silicon Harlem](http://www.siliconharlem.net/about-us/) in collaboration with [Neighborhood Stat and the Resident Association Board](http://www.stnicholashouses.org/about/) and instructed by [Judi Deisre](https://www.redesigningtech.com/#/resume).
+
 ## Basic Web 101
 
 The basic web development course is an introduction to front end web site development. In this 6-week course, the students will be exposed to HTML5 and CSS. By the end of this course, the student will have developed a working set of web pages with various forms of functionality based upon CSS design standards and a working understanding of JavaScript programming.
@@ -284,6 +288,13 @@ What is the revenue generation model for [DuckDuckGo](https://www.quora.com/What
 
 Create sophisticated formatting for your prose and code on GitHub with simple syntax.
 [Learn more](https://help.github.com/en/articles/basic-writing-and-formatting-syntax)
+
+### Documenting your projects on GitHub
+
+Good documentation is key to the success of any project.
+
+- Create [README files](https://guides.github.com/features/wikis/#creating-a-readme)
+- Add [Wikis on GitHub](https://guides.github.com/features/wikis/#creating-your-wiki)
 
 ### About Glitch
 
