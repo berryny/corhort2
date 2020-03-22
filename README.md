@@ -246,6 +246,7 @@ p {
 The [@media rule](https://www.w3schools.com/cssref/css3_pr_mediaquery.asp) is used in media queries to apply different styles for different media types/devices.
 
 - [Media Queries for Standard Devices](https://css-tricks.com/snippets/css/media-queries-for-standard-devices/)
+- [Understanding Media Types](https://www.w3schools.com/css/css3_mediaqueries.asp)
 
 ```
 body {

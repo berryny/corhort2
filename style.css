@@ -114,7 +114,10 @@ h1 {
   font-family: 'Roboto', sans-serif;
 }
 
-/* Medium screens */
+/* NOTE: Detect Medium screens 
+  Understanding Media Types - https://www.w3schools.com/css/css3_mediaqueries.asp
+*/
+
 @media all and (max-width: 736px) {
   .flexboxes {
     /* On small screens, we are no longer using row direction but column */
