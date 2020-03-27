@@ -1,12 +1,24 @@
-/*  CSS @import Rule - https://www.w3schools.com/cssref/pr_import_rule.asp
-    Google Font - https://fonts.google.com/
+/*
+  Google Font (Lato, Roboto) - https://fonts.google.com/
 */
 @import url('https://fonts.googleapis.com/css?family=Lato|Roboto&display=swap');
+body {
+    background-color: powderblue;
+    font-family: 'Lato', sans-serif;
+}
+h1 {
+    color: white;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+
+
 
 /* CSS files add styling rules to your content */
 
 body {
-  font-family: helvetica, arial, sans-serif;
+/*   font-family: helvetica, arial, sans-serif; */
+  font-family: 'Montserrat', sans-serif;
   background-color: #fff;
   margin: 0;
 }
@@ -101,13 +113,15 @@ h1 {
   flex-direction: row;
   justify-content: space-between;
   font-family: 'Lato', sans-serif;  
+  background-color: yellow;
 }
 .flexboxes .box {
+  background-color: red;
   padding-right: 1em;
   flex: 1 auto;
 }
-.flexboxes .box:last-child {
-  padding-right: 0;
+.flexboxes .box:first-of-type {
+  background-color: pink;
 }
 
 .flexboxes h2 {
@@ -119,6 +133,7 @@ h1 {
 */
 
 @media all and (max-width: 736px) {
+  
   .flexboxes {
     /* On small screens, we are no longer using row direction but column */
     flex-direction: column;
