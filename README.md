@@ -213,9 +213,15 @@ Many CSS properties take "length" values, such as width, margin, padding, font-s
 Length is a number followed by a length unit, such as `10px, 2em, etc`.
 [https://www.w3schools.com/cssref/css_units.asp](https://www.w3schools.com/cssref/css_units.asp)
 
+#### CSS @font-face Rule
+
+The `@font-face` rule allows custom fonts to be loaded on a webpage.
+
+- [Learn more](https://css-tricks.com/snippets/css/using-font-face/)
+
 #### CSS @import Rule
 
-The @import rule allows you to import a style sheet into another style sheet.
+The `@import` rule allows you to import a style sheet into another style sheet.
 
 - Using the @import rule to add external font-family from [Google Fonts](https://fonts.google.com/)
 - Adding [CSS Web Fonts](https://www.w3schools.com/css/css3_fonts.asp) allows the use of fonts that are not installed on the user's computer/browser.
@@ -269,6 +275,50 @@ p {
   }
 }
 ```
+
+## Bootstrap
+
+[Bootstrap](https://getbootstrap.com/) is an open source toolkit for developing with HTML, CSS, and JS.
+
+### Get started with Bootstrap
+
+- [Starter Template](https://getbootstrap.com/docs/4.4/getting-started/introduction/#starter-template)
+
+```
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+
+    <title>Welcome to Bootstrap</title>
+  </head>
+  <body>
+    <h1>My First Code</h1>
+
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+  </body>
+</html>
+```
+
+### Most Commonly used Features
+
+- [Grid system](https://getbootstrap.com/docs/4.4/layout/grid/#how-it-works) - build layouts using containers, rows, and columns to layout and align content.
+- [Bootstrap Containers](https://getbootstrap.com/docs/4.4/layout/overview/#containers) - Containers are the most basic layout element in Bootstrap and are required when using our default grid system.
+- [Navbar / brand](https://getbootstrap.com/docs/4.4/components/navbar/#brand)
+- [Navbar / navigation](https://getbootstrap.com/docs/4.4/components/navbar/#nav) - support for branding, navigation, and more
+- [Cards](https://getbootstrap.com/docs/4.4/components/card/#content-types) - A card is a flexible and extensible content container. It includes options for headers and footers, a wide variety of content, contextual background colors, and powerful display options.
+- [Jumbotron](https://getbootstrap.com/docs/4.4/components/jumbotron/) - component for showcasing hero unit style content.
+- [Buttons](https://getbootstrap.com/docs/4.4/components/buttons/#examples) - custom button styles for actions in forms, dialogs, and more with support for multiple sizes, states, and more.
+- [CSS Flexbox](https://getbootstrap.com/docs/4.4/utilities/flex/#enable-flex-behaviors)
 
 ## Slack: Course Workspace
 
