@@ -34,7 +34,7 @@ Week Two: Understand and coding HTML using [Glitch](https://glitch.com/)
 
 Week Three: [HTML5](https://www.w3schools.com/html/html5_intro.asp) and Cascading Style Sheets (CSS) | [Inline, Internal and External CSS](https://www.w3schools.com/css/)
 
-Week Four: Introduction to [Atom Text Editor](https://atom.io/) and [Bootstrap](https://getbootstrap.com/) framework
+Week Four: [Bootstrap](https://getbootstrap.com/) framework
 
 Week Five: Website design and build (adding presentation content)
 
@@ -66,7 +66,8 @@ A **web application** is a website which offers advanced functionality like a co
 
 IP stands for Internet Protocol and is an address that is assigned to each domain on the web.
 Type into the browser address bar
-216.58.217.206
+
+**216.58.217.206**
 
 ### URL
 
@@ -80,7 +81,7 @@ Real Talk about HTTPS: https://www.youtube.com/watch?v=iP75a1Y9saY
 
 ### SSL or SSL/TLS
 
-SSL (Secure Sockets Layer) and its successor, TLS (Transport Layer Security), are protocols for establishing authenticated and encrypted links between networked computers.
+SSL _(Secure Sockets Layer)_ and its successor, TLS _(Transport Layer Security)_, are protocols for establishing authenticated and encrypted links between networked computers.
 
 - [https://www.entrepreneur.com/article/281633](https://www.entrepreneur.com/article/281633)
 - [https://letsencrypt.org](https://letsencrypt.org)
@@ -93,7 +94,7 @@ A global computer network providing a variety of information and communication f
 
 What is browser?
 
-A web browser (commonly referred to as a browser) is a software application for accessing information on the World Wide Web.
+A _web browser_ (commonly referred to as a browser) is a software application for accessing information on the World Wide Web.
 
 ## Github / Git
 
@@ -120,7 +121,7 @@ A simple text editor tool for creating web apps within a web browser.
 
 _What Are HTML & CSS?_
 
-HTML, HyperText Markup Language, gives content structure and meaning by defining that content as, for example, headings, paragraphs, or images. CSS, or Cascading Style Sheets, is a presentation language created to style the appearance of content—using, for example, fonts or colors.
+HTML, **HyperText Markup Language**, gives content structure and meaning by defining that content as, for example, headings, paragraphs, or images. CSS, or Cascading Style Sheets, is a presentation language created to style the appearance of content—using, for example, fonts or colors.
 
 HTML stands for HyperText Markup Language. Developed by scientist Tim Berners-Lee in 1990, HTML is the "hidden" code that helps us communicate with others on the World Wide Web (WWW).
 
@@ -172,7 +173,7 @@ By color names
 
 ## CSS
 
-CSS stands for Cascading Style Sheets and it represents the design conventions that are applied to the display of HTML elements on screen, paper and other media.
+CSS stands for **Cascading Style Sheets** and it represents the design conventions that are applied to the display of HTML elements on screen, paper and other media.
 
 CSS syntax is expressed in the form of a rule-set consisting of a selector and a declaration box. Colors are specified using pre-defined color names. CSS can be added to HTML elements in three ways: inline, internal and external.
 
@@ -209,7 +210,7 @@ In the CSS, a class selector is a name preceded by a full stop `(".")` and an ID
 
 CSS has several different units for expressing a length.
 
-Many CSS properties take "length" values, such as width, margin, padding, font-size, etc.
+Many CSS properties take _"length"_ values, such as width, margin, padding, font-size, etc.
 Length is a number followed by a length unit, such as `10px, 2em, etc`.
 [https://www.w3schools.com/cssref/css_units.asp](https://www.w3schools.com/cssref/css_units.asp)
 
@@ -275,6 +276,28 @@ p {
   }
 }
 ```
+
+#### CSS3 Flexbox
+
+The **flex** layout allows responsive elements within a container to be automatically arranged depending upon screen size.
+
+```
+  display: flex;
+```
+
+- [Learn more](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+
+#### CSS3 Grid Layout
+
+The **grid** layout is used to control the sizing and positioning of boxes and their contents.
+
+```
+  display: grid;
+```
+
+- [w3schools](https://www.w3schools.com/css/css_grid.asp)
+- [Get Started Guide](https://gridbyexample.com/)
+- [Grid Layout Examples](https://gridbyexample.com/examples/)
 
 ## Bootstrap
 
